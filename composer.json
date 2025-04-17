@@ -1,5 +1,5 @@
 {
-    "name": "league/glide-laravel",
+    "name": "shuvoooo/glide-laravel",
     "description": "Glide adapter for Laravel",
     "homepage": "http://glide.thephpleague.com",
     "license": "MIT",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "league/glide-symfony": "^1.0"
+        "league/glide-symfony": "^2.0.1"
     },
     "require-dev": {
         "mockery/mockery": "^0.9",
